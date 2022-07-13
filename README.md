@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SGEMBEDDED.
 - 👀 I’m interested in gaining knowledge.
-- 🌱 I’m currently learning device drivers
-- 💞️ I’m looking to collaborate on embedded development
+- 🌱 I’m currently learning device drivers.
+- 💞️ I’m looking to collaborate on embedded development.
 - 📫 How to reach me --- gshailcoolgmail.com
 
 <!---
